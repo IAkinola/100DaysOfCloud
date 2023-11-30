@@ -14,16 +14,17 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## Ilerioluwa's Cloud Journey
 
-[✍️ Introduce yourself]
+I am Ilerioluwa Akinola, a developer with special interest in Networking. I am passionate about cloud infrastructure, networking systems and serverless architecture. Using these skills, I want to build effective and easily 
+maintainable systems.
 
-[✍️ Tell us why you started this challenge]
+I want to build a career as a Systems Engineer with my networking background, I am using this project as a means to practice various skills and technologies.
 
-[✍️ Tell us where you want to be at the end of the challenge]
+At the end of this challenge I want to be more confident in my skills and have my AWS Solutions Archtect Certification.
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [✍️ Link to your website](https://ilerioluwaakinola.wixsite.com/ilerioluwaakinola)
+- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/ilerioluwaakinola/)
 
 ## Stepping out the door
 
