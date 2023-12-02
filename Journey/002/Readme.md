@@ -1,52 +1,26 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+<!-- This template removes the micro tutorial for a quicker post and removes images for a full template check out the 000-DAY-ARTICLE-LONG-TEMPLATE.MD-->
 
-# New post title here
+![placeholder image](/Journey/002/Steam%20Marketplace%20Search.jpg)
+
+# Host a simple static webpage with S3 and CloudFront
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+This is for a personal project, I made this to test how it will look when it is done.
 
-## Prerequisite
+The project aims to allow users to search for an item on the Steam market, display the image, price and information about the item. As well as provide a functionality for the user to be reminded when the item has reached a certain price threshold.
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+Website: [link](http://steammarketplacesearch.s3-website.af-south-1.amazonaws.com/)
 
 ## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+S3 can be used to deploy a static website or a website with client-side dynamic functions, it's an easy, practically free way to deplopy a website. Route 53 can be used to give the website a custom dns name. Cloudfront distributes static and dynamic websites through AWS's edge locations to provide low latency and high performance.
 
 ## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+- I learnt how to use Cloudfront and how to limit a s3 bucket's content to only be accessed by the Cloudfront endpoint.
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[link](https://www.linkedin.com/posts/ilerioluwaakinola_100daysofcloud-activity-7136612383912804353-5--f?utm_source=share&utm_medium=member_desktop)
