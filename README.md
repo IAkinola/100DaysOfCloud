@@ -28,15 +28,9 @@ At the end of this challenge I want to be more confident in my skills and have m
 
 ## Stepping out the door
 
-<<<<<<< HEAD
-- [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
-- [ ] ☁️ 2 > [Day Two](Journey/002/Readme.md)
-- [ ] ☁️ 3 > [](Journey/003/Readme.md)
-=======
-- [✔] ☁️ 1 > [My First Day](Journey/001/Readme.md)
-- [✔] ☁️ 2 > [Day Two](Journey/002/Readme.md)
-- [✔] ☁️ 3 > [Day Three](Journey/003/Readme.md)
->>>>>>> testing
+- [] ☁️ 1 > [My First Day](Journey/001/Readme.md)
+- [] ☁️ 2 > [Day Two](Journey/002/Readme.md)
+- [] ☁️ 3 > [Day Three](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [](Journey/006/Readme.md)
