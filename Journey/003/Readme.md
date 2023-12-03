@@ -21,4 +21,4 @@ CloudWatch can track metrics of different AWS resources and is able to send noti
 
 ## Social Proof
 
-[link](link)
+[link](https://www.linkedin.com/feed/update/urn:li:share:7137067764279574528/)
